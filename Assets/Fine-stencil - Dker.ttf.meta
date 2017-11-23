@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e1e93db203a8a42c09a45df546ccf563
+timeCreated: 1508493643
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fine stencil
+  fontNames:
+  - Fine stencil
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
